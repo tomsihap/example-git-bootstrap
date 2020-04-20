@@ -11,6 +11,7 @@
     </head>
     <body>
 
+<<<<<<< HEAD
     <nav class="navbar navbar-expand-sm navbar-dark" style="background-color: black;">
         <a class="navbar-brand" href="#">Navbar</a>
         <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
@@ -23,6 +24,8 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Compte utilisateur</a>
                 </li>
+=======
+>>>>>>> navbar
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownId">

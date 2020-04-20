@@ -10,6 +10,68 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
+
+    <div class="container mt-5">
+
+        <div class="text-center">
+            <h1>Pricing</h1>
+            <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga illo, ipsa suscipit ad maxime impedit, quaerat perferendis consectetur magnam, assumenda eveniet quos nesciunt nihil asperiores alias. Eos numquam voluptatem quibusdam?</p>
+        </div>
+
+        <div class="row">
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Titre !</h2>
+                    </div>
+                    <div class="card-body">
+                        <h2>$30 / mo</h2>
+                        <ul>
+                            <li>foo</li>
+                            <li>bar</li>
+                            <li>baz</li>
+                        </ul>
+
+                        <button class="btn-inline btn btn-outline-primary">Get started</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Titre !</h2>
+                    </div>
+                    <div class="card-body">
+                        <h2>$30 / mo</h2>
+                        <ul>
+                            <li>foo</li>
+                            <li>bar</li>
+                            <li>baz</li>
+                        </ul>
+
+                        <button class="btn-inline btn btn-primary">Get started</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Titre !</h2>
+                    </div>
+                    <div class="card-body">
+                        <h2>$30 / mo</h2>
+                        <ul>
+                            <li>foo</li>
+                            <li>bar</li>
+                            <li>baz</li>
+                        </ul>
+
+                        <button class="btn-inline btn btn-primary">Get started</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
       
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

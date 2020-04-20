@@ -28,7 +28,7 @@
                     </div>
                     <div class="card-body">
                         <h2>$30 / mo</h2>
-                        <ul>
+                        <ul style="list-style: none;">
                             <li>foo</li>
                             <li>bar</li>
                             <li>baz</li>
@@ -45,7 +45,7 @@
                     </div>
                     <div class="card-body">
                         <h2>$30 / mo</h2>
-                        <ul>
+                        <ul style="list-style: none;">
                             <li>foo</li>
                             <li>bar</li>
                             <li>baz</li>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="card-body">
                         <h2>$30 / mo</h2>
-                        <ul>
+                        <ul style="list-style: none;">
                             <li>foo</li>
                             <li>bar</li>
                             <li>baz</li>
